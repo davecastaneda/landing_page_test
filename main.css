@@ -71,3 +71,7 @@ ul li:nth-child(3) {
     background: rgb(242, 228, 255);
     top: 105px;
 }
+
+img {
+    width: 70px;
+}
