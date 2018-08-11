@@ -26,10 +26,10 @@ body {
 }
 
 .bg2 {
-    -webkit-clip-path: polygon(63% 69%, 100% 9%, 100% 100%, 5% 100%);
-    clip-path: polygon(63% 69%, 100% 9%, 100% 100%, 5% 100%);
     z-index: -2;
     background-color: #2a5f98;
+    -webkit-clip-path: polygon(63% 69%, 100% 9%, 100% 100%, 5% 100%);
+    clip-path: polygon(63% 69%, 100% 9%, 100% 100%, 5% 100%);
 }
 
 .container {
