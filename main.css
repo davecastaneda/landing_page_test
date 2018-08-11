@@ -65,7 +65,7 @@ ul li:nth-child(1) {
 
 ul li:nth-child(2) {
     background: #faffc8;
-    z-index: 2;
+    z-index: 1;
 }
 
 ul li:nth-child(3) {
