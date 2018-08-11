@@ -55,6 +55,7 @@ ul li {
     position: absolute;
     border-bottom: 4px solid rgba(0, 0, 0, .2);
     mix-blend-mode: multiply;
+    transition: transform .4s ease-out;
 }
 
 ul li:nth-child(1) {
@@ -75,7 +76,6 @@ ul li:nth-child(3) {
 
 ul li:hover {
     transform: rotateY(-22deg) rotateX(7deg) scale(1.03);
-    transition: transform .4s ease-out;
     z-index: 3;
     mix-blend-mode: normal;
 }
